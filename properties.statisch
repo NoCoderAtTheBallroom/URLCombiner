@@ -1,0 +1,9 @@
+# Zuordnung Teilnehmer zu Port, Stelle 2 und 3 der 5-stelligen Zahl
+statisch.portschluessel.tn.tn1=00
+statisch.portschluessel.tn.tn2=01
+statisch.portschluessel.tn.tn3=02
+
+# Zuordnung Dienst zu Port, Stelle 4 und 5 der 5-stelligen Zahl
+statisch.portschluessel.komponente.dienst1=10
+statisch.portschluessel.komponente.dienst2=11
+statisch.portschluessel.komponente.dienst3=12
