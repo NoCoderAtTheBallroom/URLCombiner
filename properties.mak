@@ -8,8 +8,18 @@ Dienst2.tn1.infra.maschinen=Server1
 Dienst2.tn2.infra.maschinen=Server3
 
 # Dienst 3 wird nur für tn3 konfiguriert
-Dienst3.alle.infra.maschinen=Server1
-Dienst3.tn2.infra.maschinen=Server2
 Dienst3.tn3.infra.maschinen=Server3
+
+Dienst4.tn4.infra.maschinen=Server1
+Dienst4.tn3.infra.maschinen=Server2
+Dienst4.tn2.infra.maschinen=Server3
+Dienst4.tn1.infra.maschinen=Server4
+
+Dienst5.alle.infra.maschinen=Server7
+Dienst5.tn1.infra.maschinen=Server1
+Dienst5.tn2.infra.maschinen=Server2
+Dienst5.tn3.infra.maschinen=Server3
+Dienst5.tn4.infra.maschinen=Server4
+
 
 # usw.

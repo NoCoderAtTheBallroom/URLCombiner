@@ -40,10 +40,7 @@ public class Builder {
         }else{
             arrayList.add(new Connector(teilnehmer,server,dienste));
         }
-
-
-
-
+        
         return arrayList;
     }
 }

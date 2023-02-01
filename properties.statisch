@@ -2,8 +2,13 @@
 statisch.portschluessel.tn.tn1=00
 statisch.portschluessel.tn.tn2=01
 statisch.portschluessel.tn.tn3=02
+statisch.portschluessel.tn.tn4=03
+statisch.portschluessel.tn.tn5=07
 
 # Zuordnung Dienst zu Port, Stelle 4 und 5 der 5-stelligen Zahl
 statisch.portschluessel.komponente.dienst1=10
 statisch.portschluessel.komponente.dienst2=11
 statisch.portschluessel.komponente.dienst3=12
+statisch.portschluessel.komponente.dienst4=14
+statisch.portschluessel.komponente.dienst5=17
+statisch.portschluessel.komponente.dienst6=66
